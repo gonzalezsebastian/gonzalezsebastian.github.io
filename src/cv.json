@@ -1,0 +1,228 @@
+{
+    "basics": {
+      "name": "Sebastian Enrique González Benítez",
+      "label": "Ingeniero de Sistemas y Computación",
+      "image": "/me.webp",
+      "email": "gonzalezsebastian588@gmail.com",
+      "phone": "+57 3168247571",
+      "url": "https://gonzalezsebastian.com",
+      "summary": "Como recién graduado de Ingeniería de Sistemas de la Universidad del Norte, mi experiencia radica en el desarrollo de software, desarrollo web y redes informáticas. Con muchas ganas de aprovechar mi educación en estos campos, estoy buscando oportunidades para aplicar mis conocimientos en contextos prácticos. Con un compromiso de crecimiento continuo, estoy preparado para contribuir de manera significativa a cualquier entorno profesional.",
+      "location": {
+        "address": "N/A",
+        "postalCode": "N/A",
+        "city": "Barranquilla",
+        "countryCode": "CO",
+        "region": "Atlántico"
+      },
+      "profiles": [{
+        "network": "GitHub",
+        "username": "gonzalezsebastian",
+        "url": "https://github.com/gonzalezsebastian"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sebastiangonzalez",
+        "url": "https://www.linkedin.com/in/sebastian-enrique-gonz%C3%A1lez-ben%C3%ADtez-15bba5232/"
+      }]
+    },
+    "work": [{
+      "name": "Universidad del Norte",
+      "position": "Mentor Misión TIC 2022 Ciclo 4B",
+      "url": "https://misiontic.unab.edu.co/?page_id=173",
+      "startDate": "2022-11-01",
+      "endDate": "2022-12-01",
+      "summary": "Fui mentor del proyecto Misión TIC 2022. Formé parte del Ciclo 4B que consistía en Programación Móvil usando Flutter. Resolviendo dudas de los alumnos en más de 60 horas en total. Dirigí sesiones de repaso hablando de temas como Firebase, bases de datos locales, gestión de estados y geolocalización.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad del Norte",
+      "url": "https://www.uninorte.edu.co/web/ingenieria-de-sistemas-y-computacion",
+      "area": "Pregrado en Ingeniería de Sistemas y Computación",
+      "studyType": "Bachelor",
+      "startDate": "2019-01-28",
+      "endDate": "2023-12-01",
+      "score": "4.27",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [
+    {
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "issuer": "University of Michigan",
+      "url": "https://coursera.org/share/cd03ce8a2117bc839af8e89ee7f3e814"
+    },
+    {
+      "name": "Python Data Structures",
+      "issuer": "University of Michigan",
+      "url": "https://coursera.org/share/6316e6179586f475079b8c890689fe3d"
+    },
+    {
+      "name": "Frontend React Developer",
+      "issuer": "Sophos Solutions",
+      "url": "https://www.linkedin.com/posts/sebastian-enrique-gonz%C3%A1lez-ben%C3%ADtez-15bba5232_el-4-de-diciembre-del-a%C3%B1o-pasado-consegu%C3%AD-activity-7159665759252598784-Xk22?utm_source=share&utm_medium=member_desktop"
+    }
+    ],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name":"JavaScript"
+    },
+    {
+      "name":"Python"
+    },
+    {
+      "name": "Flutter/Dart"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Node JS"
+    },
+    {
+      "name": "Express"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Firebase"
+    },
+    {
+      "name": "Microsoft Office"
+    }
+    ],
+    "languages": [
+      {
+        "language": "Español",
+        "fluency": "Nativo"
+      },
+      {
+        "language": "English",
+        "fluency": "B2 TOEFL/Aptis Test"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Wictory 13",
+        "isActive": false,
+        "description": "Realicé un Videojuego en Java usando hilos. El tema principal del videojuego era 'Mercury 13' un equipo secreto para llevar a la primera mujer a la luna. El proyecto tiene un prototipo de Spaces Invaders y Puzzles con diferentes dificultades.",
+        "highlights": [
+          "POO",
+          "Java"
+        ],
+        "url": "https://github.com/gonzalezsebastian/Wictory13",
+        "github": "https://github.com/gonzalezsebastian/Wictory13"
+      },
+      {
+        "name": "Assitance Manager",
+        "isActive": false,
+        "description": "Este repositorio es el Proyecto Final del curso de Bases de Datos de la Universidad del Norte. Fue realizado utilizando FlaskAppBuilder y una Base de Datos Oracle.",
+        "highlights": [
+          "Bases de Datos",
+          "Python"
+        ],
+        "url": "https://github.com/gonzalezsebastian/AssistanceManager",
+        "github": "https://github.com/gonzalezsebastian/AssistanceManager"
+      },
+      {
+        "name": "GammApp",
+        "isActive": false,
+        "description": "Red social para gamers. Proyecto final de la asignatura Programación Móvil",
+        "highlights": [
+          "Dart/Flutter",
+          "Firebase"
+        ],
+        "url": "https://github.com/Camilo-116/gammApp",
+        "github": "https://github.com/Camilo-116/gammApp"
+      },
+      {
+        "name": "Mercurio",
+        "isActive": false,
+        "description": "Mercurio, Proyecto realizado para el curso \"Desarrollo Web Backend\". Es una aplicación que funciona similar al E-commerce.",
+        "highlights": [
+          "Backend",
+          "TypeScript",
+          "Node JS",
+          "Express",
+          "MongoDB"
+        ],
+        "url": "https://github.com/gonzalezsebastian/Backend-Final-Project",
+        "github": "https://github.com/gonzalezsebastian/Backend-Final-Project"
+      },
+      {
+        "name": "Frontend Final Project",
+        "isActive": false,
+        "description": "Crear una aplicación monolítica en ReactJS para un catálogo de artículos. Solo el administrador puede manipular los productos. Se muestran 10 artículos por página para los visitantes. Dos tipos de usuarios: administrador y visitante. Se desplegó en un Netlify.",
+        "highlights": [
+          "Frontend",
+          "React"
+        ],
+        "url": "https://fascinating-bubblegum-4983c1.netlify.app/",
+        "github": "https://github.com/gonzalezsebastian/marketplace"
+      },
+      {
+        "name": "Docker Web Service",
+        "description": "Usando dos contenedores de Docker hacer un servicio web con una web app y una base de datos. Proyecto final de curso de Estructura del Computador II.",
+        "highlights": [
+          "Docker"
+        ],
+        "github": "https://github.com/gonzalezsebastian/DockerWebService"
+      }
+    ]
+  }
