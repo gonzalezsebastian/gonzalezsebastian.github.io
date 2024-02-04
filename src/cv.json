@@ -97,6 +97,9 @@
       "name":"JavaScript"
     },
     {
+      "name": "TypeScript"
+    },
+    {
       "name":"Python"
     },
     {
@@ -116,6 +119,12 @@
     },
     {
       "name": "MySQL"
+    },
+    {
+      "name": "SQL Server"
+    },
+    {
+      "name": "PostgreSQL"
     },
     {
       "name": "HTML"
